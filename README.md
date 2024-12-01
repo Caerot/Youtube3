@@ -1,5 +1,6 @@
 # Youtube3
  Youtube Video Downloader
+(Using c#, youtubeexplode, ffmpeg and .NET framework)
 
 A lightweight desktop application to download YouTube videos (Using youtubeexplode) swiftly and easily while also using ffmpeg to reduce fps if option is chosen.
 Heavily usage of AI cuz i suck at this.
